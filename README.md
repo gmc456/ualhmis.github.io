@@ -23,7 +23,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 17 | FRANCISCO JAVIER   |  Neymar Down |  https://fran703.github.io/fmg703.github.io/  |
 18 | JOSE FRANCISCO     |   KernelPanic|  https://jmr779.github.io/   |
 19 | JUAN JOSE          |   |    |
-20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456  |
+20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456  | https://github.com/gmc456/najjary-morales
 21 | SALIM              | Najjary-Morales  |  https://github.com/lydzje  | 
 22 | KIM                |   |   |
 23 | SERGIO             | DobleTurno  | https://sergio-gps.github.io/  | 
